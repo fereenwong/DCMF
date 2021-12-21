@@ -4,5 +4,5 @@ source code for our TIP 2021 paper "Learning Discriminative Cross-modality Featu
 
 created by Fengyun Wang, email: fereenwong@gmail.com
 
-[!image](https://github.com/fereenwong/DCMF/blob/main/Overview.png)
+![avatar](https://github.com/fereenwong/DCMF/blob/main/Overview.png)
 
