@@ -63,5 +63,5 @@ After downloading, put them into `your_RGBD_Dataset` folder, and it should look 
 ## Citation
 If you think our work is helpful, please cite 
 ```
-ON THE WAY
+COMING SOON ...
 ```
