@@ -10,9 +10,9 @@ scale_size = 288
 batch_size = 4
 lr = 0.005
 epochs = 200
-train_steps = 25000
+train_steps = 20000
 lr_decay_gamma = 0.1
-adjust_lr_steps = [15000, 20000]
+adjust_lr_steps = [15000, ]
 loss_weights = [1, 0.8, 0.8, 0.5, 0.5, 0.5]
 bn_momentum = 0.001
 
