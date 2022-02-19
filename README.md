@@ -63,5 +63,11 @@ After downloading, put them into `your_RGBD_Dataset` folder, and it should look 
 ## Citation
 If you think our work is helpful, please cite 
 ```
-COMING SOON ...
+@article{wang2022learning,
+  title={Learning Discriminative Cross-modality Features for RGB-D Saliency Detection},
+  author={Wang, Fengyun and Pan, Jinshan and Xu, Shoukun and Tang, Jinhui},
+  journal={IEEE Transactions on Image Processing},
+  year={2022},
+  publisher={IEEE}
+}
 ```
